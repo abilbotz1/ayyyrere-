@@ -54,23 +54,23 @@ global.nomorwa = '0'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ WM ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 
 global.readMore = readMore
-global.author = 'Created By Riell X wahyu animek'
-global.namebot = 'Khurushi Md'
-global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 Riell X Wahyu animek'
+global.author = 'Created By Riell X Rere🥶'
+global.namebot = 'Riell X Rere-Md'
+global.wm = '© 𝘾𝙧𝙚𝙖𝙩𝙚𝙙 𝘽𝙮 Riell X Rere🤍'
 global.media = 'https://telegra.ph/file/5d45a3d1e12726d98c5e4.jpg'
 global.watermark = wm
-global.wm2 = 'Rɪᴇʟʟ X Wᴀʜʏᴜ ᴀɴɪᴍᴇᴋ'
+global.wm2 = 'Created By Riell X Rere🥶'
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.packname = wm
 global.bottime = `T I M E : ${wktuwib}`
-global.titlebot = `Rɪᴇʟʟ X Wᴀʜʏᴜ ᴀɴɪᴍᴇᴋ`
-global.stickpack = 'Rɪᴇʟʟ X Wᴀʜʏᴜ ᴀɴɪᴍᴇᴋ'
-global.stickauth = `Rɪᴇʟʟ X Wᴀʜʏᴜ ᴀɴɪᴍᴇᴋ`
+global.titlebot = `Created By Riell X Rere🥶`
+global.stickpack = 'Created By Riell X Rere🥶'
+global.stickauth = `Dibust oleh RereCanszz🤍`
 global.week = `${week} ${date}`
 global.wibb = `${wktuwib}`
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ OWNER INFO ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.nameown1= 'Riell'
-global.nameown2 = 'ayuugirl'
+global.nameown2 = 'Rerecanszz🤍'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ MEDIA LINK ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.Linkgc = 'Bentar'
 global.lynk = 'https://lynk.id/hyuuraofc'
